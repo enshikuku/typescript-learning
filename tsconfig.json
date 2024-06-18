@@ -107,8 +107,7 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
   "include": [
-    "01_basics/**/*.ts",
-    "02_advanced/**/*.ts"
+    "01_basics/**/*.ts"
   ],
   "exclude": [
     "node_modules"
