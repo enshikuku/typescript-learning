@@ -5,7 +5,6 @@ This repository is designed to serve as your roadmap to learning TypeScript, doc
 ## Table of Contents
 
 1. [Basics](./01_basics)
-2. [Advanced](./02_advanced)
 
 ## Getting Started
 
