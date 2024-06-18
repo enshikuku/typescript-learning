@@ -1,6 +1,11 @@
 # TypeScript Learning Repository
 
 This repository is designed to serve as your roadmap to learning TypeScript, documenting my journey from the basics to advanced concepts, and preparing you specifically for Angular development.
+<div style="display: flex; justify-content: space-around;">
+    <img src="assets/shikuku.png" style="border-radius: 50%;" alt="Shikuku" width="200"/>
+    <img src="assets/ts-logo.png" style="border-radius: 50%;" alt="TypeScript" width="200"/>
+</div>
+
 
 ## Table of Contents
 
