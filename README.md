@@ -33,7 +33,6 @@ This repository is designed to serve as your roadmap to learning TypeScript, doc
 ## Directory Structure
 
 - `01_basics/`: Learn the basics of TypeScript.
-- `02_advanced/`: Dive into advanced TypeScript features.
 
 ## Contributions
 
